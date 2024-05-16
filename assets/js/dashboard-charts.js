@@ -40,7 +40,7 @@ data: {
     labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
     datasets: [{
             label: 'Income',
-            data: ["900", "300", "400", "600", "450", "400", "500", "550", "450", "650", "950", "1000"],
+            data: ["200", "300", "400", "600", "450", "400", "500", "550", "450", "650", "950", "1000"],
             backgroundColor: "rgba(76, 175, 80, 0.5)",
             borderColor: "#6da252",
             borderWidth: 1,
